@@ -1,4 +1,6 @@
 {
-  userId: "001",
-  name: "Debjit Majumdar"
+ user: {
+   id: 1,
+   name: "Debjit"
+ }
 }
